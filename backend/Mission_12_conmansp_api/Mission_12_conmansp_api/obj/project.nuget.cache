@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NES7JFqumYbpSYuUdk+Bu6Y+9/ulU09WLaXVgYw2kjPlpcGZ+Jgt5oBKYus9FH2q9/CmnRCYWPIGWF9v2IzRjw==",
+  "success": true,
+  "projectFilePath": "/Users/connorsandstrom/Mission_12_conmansp/backend/Mission_12_conmansp_api/Mission_12_conmansp_api/Mission_12_conmansp_api.csproj",
+  "expectedPackageFiles": [
+    "/Users/connorsandstrom/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/connorsandstrom/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/connorsandstrom/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/connorsandstrom/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/connorsandstrom/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/connorsandstrom/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
